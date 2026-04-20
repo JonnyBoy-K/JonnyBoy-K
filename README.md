@@ -3,11 +3,13 @@ I’m Jonny, a computer science major studying at the University of Saskatchewan
 
 I typically work on/build web apps and games, but I plan to branch out to other types of projects as well.
 
-For web based projects, my main tech stack is React, TypeScript, Tailwind, Node.js (Express) and Prisma (PostgreSQL) + Docker. I also make use of figma for UI prototyping and clerk for authentication.  
-For games I use the Godot game engine with GDScript.  
+For web based projects, my main tech stack is Next.js(React), TypeScript, Tailwind, Node.js (Express) and Prisma (PostgreSQL) + Docker. I also make use of figma for UI prototyping and clerk for authentication.  
+For game development, my primary stack is the Godot game engine using GDScript.  
 I also have experience coding with java, python, C and Golang on smaller class/personal projects.  
 
-I’m currently working with a team of 7 others on a 2D agent sim/dungeon builder game called Crypt Keeper. My role on the team is as a test lead which includes the responsibilities of ensuring our programmers are using a TDD approach, managing the user and playability testing of our game including write ups on bugs and assisting the project lead in between test cycles.
+I worked as the Test Lead on Krypt Keeper, a 2D pixel art agent simulation / dungeon builder game developed in a team of nine. I conducted internal playtesting to identify bugs and usability issues, and organized external playtesting sessions with users who provided feedback through structured questionnaires. I analyzed this data to produce playtesting reports highlighting gameplay issues and user experience concerns. I collaborated with the development team by reporting bugs, suggesting balance adjustments, and providing feedback to support iterative refinement of the game.
+
+Project link: [Play Krypt Keeper](https://jonnyboy-k.itch.io/krypt-keeper)
 <!--
 **JonnyBoy-K/JonnyBoy-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
